@@ -1,30 +1,45 @@
-# C++ Comments and Variables 🚀
+# 🚀 C++ Course
 
-Welcome to the **C++ Comments and Variables** repository! This repository is designed to help beginners and programmers understand the fundamental concepts of comments and variables in C++.
+Welcome to the **C++ Course** repository! This course is designed to help beginners and programmers build a strong foundation in C++ with clear explanations and practical examples.
 
 ## 📌 Topics Covered
 
-### 1️⃣ Comments in C++
-- **Single-line comments** (`//`)
-- **Multi-line comments** (`/* */`)
-- **Use cases and best practices**
+### 1️⃣ Introduction to C++
+- Overview of C++
+- Setting up the development environment
+- Writing your first C++ program
 
-### 2️⃣ Variables in C++
-- **Declaring and initializing variables**
-- **Different data types** (int, float, char, bool, string, etc.)
-- **Scope and lifetime of variables**
-- **Best practices for naming variables**
+### 2️⃣ Core C++ Concepts
+- Data types and variables
+- Operators and expressions
+- Control structures (if-else, loops, switch-case)
 
-## 🚀 Why This Repository?
+### 3️⃣ Functions and Scope
+- Defining and calling functions
+- Function parameters and return types
+- Scope and lifetime of variables
+
+### 4️⃣ Object-Oriented Programming (OOP)
+- Classes and objects
+- Constructors and destructors
+- Encapsulation, inheritance, and polymorphism
+
+### 5️⃣ Advanced C++ Concepts
+- Pointers and memory management
+- File handling in C++
+- Standard Template Library (STL)
+
+## 🚀 Why This Course?
 - Beginner-friendly explanations
-- Practical examples to reinforce learning
-- Helps in writing clean and maintainable C++ code
+- Hands-on coding examples
+- Structured approach for easy learning
+- Helps in writing clean and efficient C++ code
 
 ## 📂 Project Structure
 ```
-📁 Cpp-Comments-and-Variables
-│── 📄 video 2.cpp   # Examples of comments and varibles in C++
-│── 📄 README.md      # Project documentation
+📁 Cpp-Course
+│── 📄 example1.cpp   # Basic C++ program examples
+│── 📄 README.md      # Course documentation
 ```
 
 ## 🛠️ Getting Started
@@ -32,16 +47,15 @@ To run the examples in this repository:
 1. Install a C++ compiler (e.g., GCC, Clang, or MSVC)
 2. Clone this repository:
    ```sh
-    https://github.com/AliHamza-lab/Comments-and-variables/edit/main/README.md)
+   git clone https://github.com/AliHamza-lab/Cpp-Course.git
    ```
 3. Navigate to the project folder:
    ```sh
-   cd video 2
+   cd Cpp-Course
    ```
-4. Compile and run the examples:
+4. Compile and run an example:
    ```sh
-   g++ comments.cpp -o comments && ./comments
-   g++ variables.cpp -o variables && ./variables
+   g++ example1.cpp -o example1 && ./example1
    ```
 
 ## 💡 Contributing
@@ -56,6 +70,7 @@ Feel free to contribute by adding more examples, improving documentation, or fix
 This project is licensed under the **MIT License**.
 
 ## 🔗 Connect
-If you found this repository helpful, don't forget to ⭐ **star** the repo and follow me for more updates!
+If you found this course helpful, don't forget to ⭐ **star** the repo and follow me for more updates!
 
 Happy Coding! 🚀
+
