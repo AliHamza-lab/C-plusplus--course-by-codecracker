@@ -1,41 +1,41 @@
 #include<iostream>
 using namespace std;
 int main(){
-//	int age=20;
-//	if (age>=18){
-//		cout<<"you are not okay";
-//	}
+	int age=20;
+	if (age>=18){
+		cout<<"you are not okay";
+	}
 
-//int num=1;
-// if (num>=8){
-// 	cout<<"num is larger";
-// 	
-// }
-// else{
-// 	cout<<"num is smaller";
-// }
+int num=1;
+if (num>=8){
+	cout<<"num is larger";
+	
+}
+else{
+	cout<<"num is smaller";
+}
 
-//int marks=50;
-//if (marks>=90){
-//	cout<<"a";
-//	
-//}
-//else if (marks>=60){
-//	cout<<"c";
-//}
-//else if(marks>=50){
-//	cout<<"b";
-//}
-//else{
-//	cout<<"fail";
-//}
-//int marks=50;
-//if (marks<=90){
-//	cout<<"a";
-//	if (marks>=50){
-//		cout<<"b";
-//	}
-//}
+int marks=50;
+if (marks>=90){
+	cout<<"a";
+	
+}
+else if (marks>=60){
+	cout<<"c";
+}
+else if(marks>=50){
+	cout<<"b";
+}
+else{
+	cout<<"fail";
+}
+int marks=50;
+if (marks<=90){
+	cout<<"a";
+	if (marks>=50){
+		cout<<"b";
+	}
+}
 
 int a=3;
 
